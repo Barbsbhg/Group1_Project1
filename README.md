@@ -1,3 +1,6 @@
+ ![Static Badge](https://img.shields.io/badge/:badgeContent)
+ 
+
 # Uber Ride Patterns in Extreme Weather
 
 **Group 1 Team Members:**
