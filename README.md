@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Uber Ride Patterns in Extreme Weather
 
 **Group 1 Team Members:**
@@ -11,9 +10,6 @@
 ### **Project Description:**
 The aim of this project is to analyze the relationship between weather conditions and Uber ride
 usage, especially during extreme weather conditions. The problem we address is whether weather conditions, ranging from subzero temperatures to scorching heat, influence the frequency of ride-sharing usage. 
-=======
-Group 1 Project 1
-
 
 **Title: Uber Ride Patterns in Extreme Weather**
 Team Members:
