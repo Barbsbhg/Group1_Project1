@@ -17,8 +17,7 @@ usage, especially during extreme weather conditions. The problem we address is w
 
 ### **Dataset:**
 We used the following data for our analysis:
-* Historical weather data
-  * https://home.openweathermap.org/history_bulks
+* [Historical weather data](https://home.openweathermap.org/history_bulks)
   * Parameters:
     * Dates: January 2014 - December 2015
     * Location: New York City
@@ -37,7 +36,7 @@ We used the following data for our analysis:
       * Visibility
       * Wind
 
-* Uber pickups in New York City https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city?resource=download&select=Uber-Jan-Feb-FOIL.csv 
+* [Uber pickups in New York City](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city?resource=download&select=Uber-Jan-Feb-FOIL.csv)
 
 ### **Research Questions:**
 1. **Correlation Study:** Is there a specific correlation between weather factors (e.g., temperature, precipitation) and the number of rides provided by Uber and other FHV companies?\
@@ -48,8 +47,8 @@ We used the following data for our analysis:
 **Hypothesis:** Extreme weather conditions significantly affect the demand and geographic distribution of rides for Uber and other FHV companies.\
 **Null Hypothesis:** Extreme weather conditions do not significantly impact the demand and geographic distribution of rides for Uber and other FHV companies.
 
-### **Data Analysis:**
-![](Max_Temp_vs_trips.jpeg)
+## **Data Analysis:**
+![Mean Temp vs trips](Images/Mean_Temp_vs_trips.jpeg)
 
 
 ### **Interpretation & Recommendations:**
