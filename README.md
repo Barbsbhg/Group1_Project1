@@ -6,7 +6,7 @@
 * [Research Questions](#research-questions)
 * [Hypothesis](#hypothesis)
 * [Data Analysis](#data-analysis)
-* [Interpretation & Recommendations](#interpretation-&-recommendations)
+* [Interpretation & Recommendations](#interpretation-and-recommendations)
 * [Project Limitations](#project-limitations)
 * [Conclusion](#conclusion)
 
@@ -61,7 +61,7 @@ We used the following data for our analysis:
 ![Mean Temp vs trips](Images/Mean_Temp_vs_trips.jpeg)
 
 
-### **Interpretation & Recommendations:**
+### **Interpretation and Recommendations:**
 The most prominent relationship is between temperature and the number of trips. As temperatures rise, the number of trips tend to decrease. This could be due to people choosing alternative modes of transportation, walking, or avoiding outings during hot days. Humidity and cloudiness also show relationships with the number of trips, but these correlations are weaker, suggesting other factors might be at play.
 
 #### **Given this correlation data, Uber and other FHV companies might want to:**
