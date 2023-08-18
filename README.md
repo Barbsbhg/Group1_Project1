@@ -3,11 +3,11 @@
 ### **Table of Contents:**
 * [Project Description](#project-description)
 * [Dataset](#dataset)
-* [Research Questions](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Research Questions](#research-questions)
 * [Hypothesis](#hypothesis)
 * [Data Analysis](#data-analysis)
-* [Interpretation & Recommendations](#interpretation_&_recommendations)
-* [Project Limitations](#project_limitations)
+* [Interpretation & Recommendations](#interpretation-&-recommendations)
+* [Project Limitations](#project-limitations)
 * [Conclusion](#conclusion)
 
 ### **Group 1 Team Members:**
