@@ -4,11 +4,11 @@
 * [Project Description](#project-description)
 * [Dataset](#dataset)
 * [Research Questions](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
-* [Hypothesis](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
-* [Data Analysis](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
-* [Interpretation & Recommendations](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#group-1-team-members)
-* [Project Limitations](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
-* [Conclusion](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#dataset)
+* [Hypothesis](#hypothesis)
+* [Data Analysis](#data-analysis)
+* [Interpretation & Recommendations](#interpretation_&_recommendations)
+* [Project Limitations](#project_limitations)
+* [Conclusion](#conclusion)
 
 ### **Group 1 Team Members:**
 * Barbie Hurtado
