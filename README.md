@@ -1,8 +1,8 @@
 # Uber Ride Patterns in Extreme Weather
 
 ### **Table of Contents:**
-* [Project Description](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
-* [Dataset](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Project Description](#project-description)
+* [Dataset](#dataset)
 * [Research Questions](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
 * [Hypothesis](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
 * [Data Analysis](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
