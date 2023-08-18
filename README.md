@@ -1,5 +1,15 @@
 # Uber Ride Patterns in Extreme Weather
 
+### **Table of Contents:**
+* [Project Description](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Dataset](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Research Questions](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Hypothesis](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Data Analysis](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Interpretation & Recommendations](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#group-1-team-members)
+* [Project Limitations](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#project-description)
+* [Conclusion](https://github.com/Barbsbhg/Group1_Project1/edit/main/README.md#dataset)
+
 ### **Group 1 Team Members:**
 * Barbie Hurtado
 * Nathan Farley
