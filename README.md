@@ -76,8 +76,13 @@ The most prominent relationship is between temperature and the number of trips. 
 * The project's timeframe was restricted to class hours only, due to the demanding professional commitments of all team members.
 
 ### **Conclusion:**
-The hypothesis that extreme weather conditions significantly affect the demand of rides for Uber and other FHV companies was proven by this analysis. 
+Our analysis supports the hypothesis that extreme weather conditions significantly influence the demand for Uber and other FHV (For-Hire Vehicle) services in New York City. In particular, we observed a noticeable decrease in ride volume as temperatures increased, suggesting that riders may opt for alternative transportation methods or reduce travel altogether during hotter weather. Although weaker, correlations with humidity and cloud cover indicate that these variables also play a role in rider behavior, albeit to a lesser extent.
 
+These insights present actionable opportunities for ride-sharing companies. By aligning promotions and driver deployment strategies with weather patterns—especially during colder days when demand tends to be higher—companies can improve service efficiency and user engagement.
+
+While our findings are insightful, they are constrained by data limitations such as incomplete timeframes and geographical scope. Future research using more complete and diverse datasets could enhance the accuracy of predictions and uncover additional weather-related patterns.
+
+In summary, weather is a meaningful factor in ride-share demand, and accounting for it can empower more strategic business decisions in urban mobility planning.
 
 
 
